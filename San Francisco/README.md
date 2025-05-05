@@ -6,7 +6,7 @@ _"San Francisco is an Apple designed typeface that provides a consistent, legibl
 From [Apple Developer](https://developer.apple.com/fonts/), where you can get all 4 variants of San Francisco, as well as its extensions
 
 ## Install Guide
-1. Copy [this link]([https://github.com/Thisisauser6443/San-Francisco/raw/refs/heads/main/Import.json](https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/Import.json) pointed to the JSON file
+1. Copy [this link](https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/Import.json) pointed to the JSON file
 2. Make your way down to the `Fonts` section, under `Bunny` or `Revenge` in Discord's `Settings`
 3. Hit the `+` button, and then hit `Import font entries from link`
 4. Paste the link you copied earlier into the `Font Link` text field and hit `Import`
