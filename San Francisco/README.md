@@ -1,9 +1,9 @@
-# San Francisco for Bunny and Revenge
+# San Francisco
 
-## So, what the heck is this font?
+## Copy and pasted over description because I'm lazy
 _"San Francisco is an Apple designed typeface that provides a consistent, legible, and friendly typographic voice. Across all Apple products, the size-specific outlines and dynamic tracking ensure optimal legibility at every point size and screen resolution. Numbers have proportional widths by default, so they feel harmonious and naturally spaced within the time and data-centric interfaces people use every day."_
 
-From [Apple Developer](https://developer.apple.com/fonts/), where you can get all of the variants of San Francisco, as well as its extensions
+From [Apple Developer](https://developer.apple.com/fonts/), where you can get all 4 variants of San Francisco, as well as its extensions
 
 ## Install Guide
 1. Copy [this link](https://github.com/Thisisauser6443/San-Francisco/raw/refs/heads/main/Import.json) pointed to the JSON file
@@ -17,6 +17,4 @@ From [Apple Developer](https://developer.apple.com/fonts/), where you can get al
 It goes without saying, but **I __DO NOT__ OWN THESE FONTS**, as Apple have created them. However, this is only meant for personal usage, as opposed to commercial, so this shouldn't mean much, anyway
 
 ## Credits
-- [Rairof](https://github.com/Rairof) for her SF Pro Display pack in [Theme-Fonts](https://github.com/Rairof/Theme-Fonts) (This repo is essentially a rework of hers)
-- [2bytesforme](https://github.com/2bytes4me) for [sodosansbunny](https://github.com/2bytes4me/sodosansbunny)'s JSON structure (Since I forgot the former existed, until now)
 - [Apple](https://apple.com) for actually making the fonts [publicly available](https://developer.apple.com/fonts/) ([Unlike Google, with Product Sans, for some reason](https://fonts.google.com/license/productsans))
