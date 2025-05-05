@@ -6,7 +6,7 @@ _"Product Sans is a geometric sans-serif typeface created by Google for branding
 Shamelessly stolen from [Wikipedia](https://en.wikipedia.org/wiki/Product_Sans). These weren't even made publicly available, [as Google have stated in its license](https://fonts.google.com/license/productsans) (If you can even call it one, to begin with)
 
 ## Install Guide
-1. Copy [this link](https://github.com/Thisisauser6443/Product-Sans/raw/refs/heads/main/Import.json) pointed to the JSON file
+1. Copy [this link](https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Product%20Sans/Import.json) pointed to the JSON file
 2. Make your way down to the `Fonts` section, under `Bunny` or `Revenge` in Discord's `Settings`
 3. Hit the `+` button, and then hit `Import font entries from link`
 4. Paste the link you copied earlier into the `Font Link` text field and hit `Import`
