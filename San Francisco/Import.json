@@ -1,25 +1,25 @@
 {
-  "spec": 1,
-  "name": "San Francisco",
-  "previewText": "San Francisco is a font developed by Apple, and is used in recent versions of macOS, iOS, iPadOS, and tvOS",
-  "main": {
-      "ABCGintoNord-ExtraBold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Black.otf?raw=1",
-      "ggsans-Bold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Bold.otf?raw=1",
-      "ggsans-BoldItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Bold%20Italic.otf?raw=1",
-      "ggsans-ExtraBold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Extra%20Bold.otf?raw=1",
-      "ggsans-ExtraBoldItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Extra%20Bold%20Italic.otf?raw=1",
-      "ggsans-Medium": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Medium.otf?raw=1",
-      "ggsans-MediumItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Medium%20Italic.otf?raw=1",
-      "ggsans-Normal": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Normal.otf?raw=1",
-      "ggsans-NormalItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Normal%20Italic.otf?raw=1",
-      "ggsans-Semibold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Semibold.otf?raw=1",
-      "ggsans-SemiboldItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Semibold%20Italic.otf?raw=1",
-      "NotoSans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-Bold.otf?raw=1",
-      "NotoSans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-ExtraBold.otf?raw=1",
-      "NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-Medium.otf?raw=1",
-      "NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-Normal.otf?raw=1",
-      "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-NormalItalic.otf?raw=1",
-      "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-Semibold.otf?raw=1",
-      "ggmono-Normal": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Mono/Semibold.otf?raw=1"
-  }
+    "spec": 1,
+    "name": "San Francisco",
+    "previewText": "San Francisco is a font developed by Apple, and is used in recent versions of macOS, iOS, iPadOS, and tvOS",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Black.otf?raw=1",
+        "ggsans-Bold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Bold.otf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Bold%20Italic.otf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Extra%20Bold.otf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Extra%20Bold%20Italic.otf?raw=1",
+        "ggsans-Medium": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Medium.otf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Medium%20Italic.otf?raw=1",
+        "ggsans-Normal": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Normal.otf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Normal%20Italic.otf?raw=1",
+        "ggsans-Semibold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Semibold.otf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Pro%20Display/Semibold%20Italic.otf?raw=1",
+        "NotoSans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-Bold.otf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-ExtraBold.otf?raw=1",
+        "NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-Medium.otf?raw=1",
+        "NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-Normal.otf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-NormalItalic.otf?raw=1",
+        "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/SF-Pro-Display/SF-Pro-Display-Semibold.otf?raw=1",
+        "ggmono-Normal": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/San%20Francisco/San%20Francisco%20Mono/Semibold.otf?raw=1"
+    }
 }
