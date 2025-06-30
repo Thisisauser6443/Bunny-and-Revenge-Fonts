@@ -1,0 +1,20 @@
+# Nunito
+
+## Copy and pasted over description because I'm lazy
+_"Nunito is a well balanced sans serif typeface superfamily, with 2 versions: The project began with Nunito, created by Vernon Adams as a rounded terminal sans serif for display typography. Jacques Le Bailly extended it to a full set of weights, and an accompanying regular non-rounded terminal version, Nunito Sans."_
+
+From [Google Fonts](https://fonts.google.com/specimen/Nunito/about), where you can get the all the variants of the font itself
+
+## Install Guide
+1. Copy [this link](https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Nunito/Import.json) pointed to the JSON file
+2. Make your way down to the `Fonts` section, under `Bunny` or `Revenge` in Discord's `Settings`
+3. Hit the `+` button, and then hit `Import font entries from link`
+4. Paste the link you copied earlier into the `Font Link` text field and hit `Import`
+5. Verify that all 18 PostScript names are present, and have been populated with a unique link, and hit `Import`
+6. You'll be brought back to the `Fonts` page. Hit `Apply` next to the new font entry, and `Reload`
+
+## Disclaimer
+It goes without saying, but **I __DO NOT__ OWN THESE FONTS**, as Apple have created them. However, this is only meant for personal usage, as opposed to commercial, so this shouldn't mean much, anyway
+
+## Credits
+- [Vernon Adams](https://fonts.google.com/?query=Vernon%20Adams), [Cyreal](https://fonts.google.com/?query=Cyreal), and [Jacques Le Bailly](https://fonts.google.com/?query=Jacques%20Le%20Bailly) for designing the font
