@@ -17,5 +17,5 @@ From [Wikipedia's article for Product Sans](https://en.wikipedia.org/wiki/Produc
 It goes without saying, but **I __DO NOT__ OWN THESE FONTS**. However, this is only intended for personal usage, as opposed to commercial, so this shouldn't mean much, anyway
 
 ## Credits
-- [John "hprobotic" Pham](https://github.com/hprobotic) for sticking the variable file up on his repo (I wasn't bothered to dump it from my Pixel, at the time)
+- [John "hprobotic" Pham](https://github.com/hprobotic) for sticking the variable file up on [his repo](github.com/hprobotic/Google-Sans-Font) (I wasn't bothered to dump it from my Pixel, at the time)
 - [Google](https://www.google.com) for designing the font. Would've helped if it was publicly licensed, too ¯⁠\\⁠_⁠(⁠ツ⁠)⁠\_⁠/⁠¯
