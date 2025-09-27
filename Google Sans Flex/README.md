@@ -3,7 +3,7 @@
 ## Copy and pasted over description because I'm lazy
 _"Product Sans is a geometric sans-serif typeface created by Google for branding purposes. It replaced the old Google logo on September 1, 2015. As Google's branding was becoming more apparent on multiple device types, Google sought to adapt its design so that its logo could be portrayed in constrained spaces and remain consistent for its users across platforms."_
 
-From [Wikipedia's article for Product Sans](https://en.wikipedia.org/wiki/Product_Sans), of which Google Sans Flex Sans is based on
+From [Wikipedia's article for Product Sans](https://en.wikipedia.org/wiki/Product_Sans), of which Google Sans Flex is based on
 
 ## Install Guide
 1. Copy [this link](https://raw.githubusercontent.com/Thisisauser6443/Bunny-and-Revenge-Fonts/refs/heads/main/Google%20Sans%20Flex/Import.json) pointed to the JSON file
