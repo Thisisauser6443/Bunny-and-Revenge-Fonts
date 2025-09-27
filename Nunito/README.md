@@ -6,7 +6,7 @@ _"Nunito is a well balanced sans serif typeface superfamily, with 2 versions: Th
 From [Google Fonts](https://fonts.google.com/specimen/Nunito/about), where you can get the all the variants of the font itself
 
 ## Install Guide
-1. Copy [this link](https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Nunito/Import.json) pointed to the JSON file
+1. Copy [this link](https://raw.githubusercontent.com/Thisisauser6443/Bunny-and-Revenge-Fonts/refs/heads/main/Nunito/Import.json) pointed to the JSON file
 2. Make your way down to the `Fonts` section, under `Bunny` or `Revenge` in Discord's `Settings`
 3. Hit the `+` button, and then hit `Import font entries from link`
 4. Paste the link you copied earlier into the `Font Link` text field and hit `Import`
