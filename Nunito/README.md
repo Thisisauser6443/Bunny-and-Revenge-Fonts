@@ -14,7 +14,7 @@ From [Google Fonts](https://fonts.google.com/specimen/Nunito/about), where you c
 6. You'll be brought back to the `Fonts` page. Hit `Apply` next to the new font entry, and `Reload`
 
 ## Disclaimer
-It goes without saying, but **I __DO NOT__ OWN THESE FONTS**, as Apple have created them. However, this is only meant for personal usage, as opposed to commercial, so this shouldn't mean much, anyway
+It goes without saying, but **I __DO NOT__ OWN THESE FONTS**. However, this is only intended for personal usage, as opposed to commercial, so this shouldn't mean much, anyway
 
 ## Credits
-- [Vernon Adams](https://fonts.google.com/?query=Vernon%20Adams), [Cyreal](https://fonts.google.com/?query=Cyreal), and [Jacques Le Bailly](https://fonts.google.com/?query=Jacques%20Le%20Bailly) for designing the font
+[Vernon Adams](https://fonts.google.com/?query=Vernon%20Adams), [Cyreal](https://fonts.google.com/?query=Cyreal), and [Jacques Le Bailly](https://fonts.google.com/?query=Jacques%20Le%20Bailly) for designing the font
