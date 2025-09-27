@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Google Sans Flex",
+    "previewText": "Google Sans Flex is a font family based on \"Google Sans\", both developed by Google, and is used in the majority of its branding/services/products",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex/Black.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex/Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex/Bold%20Italic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex/Extra%20Bold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex/Extra%20Bold%20Italic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex/Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex/Medium%20Italic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex/Normal.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex/Normal%20Italic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex/Semibold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex/Semibold%20Italic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex%20Pro/Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex%20Pro/Extra%20Bold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex%20Pro/Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex%20Pro/Normal.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex%20Pro/Normal%20Italic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Flex%20Pro/Semibold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/Thisisauser6443/Bunny-and-Revenge-Fonts/raw/refs/heads/main/Google%20Sans%20Flex/Google%20Sans%20Code/Semibold.ttf?raw=1"
+    }
+}
