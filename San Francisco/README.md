@@ -17,4 +17,4 @@ From [Apple Developer](https://developer.apple.com/fonts/), where you can get al
 It goes without saying, but **I __DO NOT__ OWN THESE FONTS**, as Apple have created them. However, this is only meant for personal usage, as opposed to commercial, so this shouldn't mean much, anyway
 
 ## Credits
-- [Apple](https://apple.com) for actually making the fonts [publicly available](https://developer.apple.com/fonts/) ([Unlike Google, with Product Sans, for some reason](https://fonts.google.com/license/productsans))
+[Apple](https://apple.com) for actually making the fonts [publicly available](https://developer.apple.com/fonts/) ([Unlike Google, with Product Sans, for some reason](https://fonts.google.com/license/productsans))
