@@ -1,9 +1,9 @@
 # Google Sans Flex
 
 ## Copy and pasted over description because I'm lazy
-_"Product Sans is a geometric sans-serif typeface created by Google for branding purposes. It replaced the old Google logo on September 1, 2015. As Google's branding was becoming more apparent on multiple device types, Google sought to adapt its design so that its logo could be portrayed in constrained spaces and remain consistent for its users across platforms."_
+_"Google Sans Flex is the next generation of Google’s brand typeface."_
 
-From [Wikipedia's article for Product Sans](https://en.wikipedia.org/wiki/Product_Sans), of which Google Sans Flex is based on
+From [Google Fonts](https://fonts.google.com/specimen/Google+Sans+Flex/about/), where you can get the all the variants of the font itself (Yeah, ***very*** descriptive from them)
 
 ## Install Guide
 1. Copy [this link](https://raw.githubusercontent.com/Thisisauser6443/Bunny-and-Revenge-Fonts/refs/heads/main/Google%20Sans%20Flex/Import.json) pointed to the JSON file
@@ -17,5 +17,4 @@ From [Wikipedia's article for Product Sans](https://en.wikipedia.org/wiki/Produc
 It goes without saying, but **I __DO NOT__ OWN THESE FONTS**. However, this is only intended for personal usage, as opposed to commercial, so this shouldn't mean much, anyway
 
 ## Credits
-- [John "hprobotic" Pham](https://github.com/hprobotic) for sticking the variable file up on [his repo](github.com/hprobotic/Google-Sans-Font) (I wasn't bothered to dump it from my Pixel, at the time)
-- [Google](https://www.google.com) for designing the font. Would've helped if it was publicly licensed, too ¯⁠\\⁠_⁠(⁠ツ⁠)⁠\_⁠/⁠¯
+[Google](https://www.google.com) for designing the font
